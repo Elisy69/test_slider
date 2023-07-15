@@ -4,10 +4,10 @@
 
 @font-face {
   font-family: manrope;
-  src: url(src/fonts/Manrope.ttf);
+  src: url(/fonts/Manrope.ttf);
 }
 
 @font-face {
   font-family: headers;
-  src: url(src/assets/fonts/OrchideaPro-ExtraLight.ttf);
+  src: url(/fonts/OrchideaPro-ExtraLight.ttf);
 }
