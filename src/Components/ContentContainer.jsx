@@ -9,7 +9,7 @@ function ContentContainer() {
           <div className="w-[60%] mob:w-full text-center overflow-hidden mob:flex mob:justify-center">
             <img
               className="mb-[-20%] mob:mb-[0] mt-[]"
-              src="/src/assets/images/julia-d-FlNTu2Bj4Dg-unsplash.jpg"
+              src="src/assets/images/julia-d-FlNTu2Bj4Dg-unsplash.jpg"
               alt="img1"
             />
           </div>
