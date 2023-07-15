@@ -48,7 +48,7 @@ function ContentContainer() {
           <div className="w-[40%] mob:w-full mob:flex mob:justify-center text-center overflow-hidden ml-20 mob:ml-0">
             <img
               className="mb-[-55%] mob:mb-[-30%] mt-[-20%]"
-              src="/public/images/taisiia-stupak-viq7xx1boxo-unsplash 1.jpg"
+              src="/images/2.jpg"
               alt="img2"
             />
           </div>
