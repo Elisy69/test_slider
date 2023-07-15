@@ -1,7 +1,7 @@
 import { gsap } from "gsap";
 import { ScrollTrigger } from "gsap/ScrollTrigger";
 import { useLayoutEffect, useRef } from "react";
-import { images } from "/Users/strashevskyelisey/Desktop/coding/TestTasks/scrollTest/src/constants/sliderImages.js";
+import { images } from "/src/constants/sliderImages.js";
 
 gsap.registerPlugin(ScrollTrigger);
 

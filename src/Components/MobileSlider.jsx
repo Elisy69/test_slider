@@ -1,5 +1,5 @@
 import { motion } from "framer-motion";
-import { images } from "/Users/strashevskyelisey/Desktop/coding/TestTasks/scrollTest/src/constants/sliderImages.js";
+import { images } from "/src/constants/sliderImages.js";
 
 function MobileSlider() {
   return (

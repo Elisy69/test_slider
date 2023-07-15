@@ -1,6 +1,6 @@
 import { useMediaQuery } from "usehooks-ts";
-import IconPhone from "/Users/strashevskyelisey/Desktop/coding/TestTasks/scrollTest/src/assets/svg/IconPhone.jsx";
-import Logo from "/Users/strashevskyelisey/Desktop/coding/TestTasks/scrollTest/src/assets/svg/Logo.jsx";
+import IconPhone from "/src/assets/svg/IconPhone.jsx";
+import Logo from "/src/assets/svg/Logo.jsx";
 function Header() {
   const mobile = useMediaQuery("(min-width: 1200px)");
 
