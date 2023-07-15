@@ -9,7 +9,7 @@ function ContentContainer2() {
           <div className="w-[60%] mob:w-full text-center overflow-hidden">
             <img
               className="mb-[-20%] mob:mb-[0] mt-[]"
-              src="src/assets/images/julia-d-FlNTu2Bj4Dg-unsplash (1).jpg"
+              src="/src/assets/images/julia-d-FlNTu2Bj4Dg-unsplash (1).jpg"
               alt="img1"
             />
           </div>
@@ -48,7 +48,7 @@ function ContentContainer2() {
           <div className="w-[40%] mob:w-full mob:flex mob:justify-center text-center overflow-hidden ml-20 mob:ml-0">
             <img
               className="mb-[-55%] mob:mb-[-30%] mt-[-20%]"
-              src="src/assets/images/taisiia-stupak-viq7xx1boxo-unsplash 1 (1).jpg"
+              src="/src/assets/images/taisiia-stupak-viq7xx1boxo-unsplash 1 (1).jpg"
               alt="img2"
             />
           </div>
